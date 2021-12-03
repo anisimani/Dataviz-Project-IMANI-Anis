@@ -49,7 +49,7 @@ def graph_line(abs,ord,databar):
 
 titre("Exploration Visualisative Individuelle sur le jeu de données 'Demandes de valeurs foncières'")
 
-file_path1="full_2020.csv"
+file_path1= "https://jtellier.fr/DataViz/full_2020.csv"
 
 @st.cache
 @log_time   
